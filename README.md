@@ -14,3 +14,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=social&logo=twitter)](https://twitter.com/neonstandin)
 [![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=social&logo=facebook)](https://www.facebook.com/profile.php?id=100033382491343)
 [![VK](https://img.shields.io/badge/VK-ffffff?style=social&logo=vk)](https://vk.com/im_ilyavolkov)
+#
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standinneon&show_icons=true&theme=cobalt)](https://github.com/standinneon)
