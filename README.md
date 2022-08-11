@@ -1,6 +1,6 @@
 [![Header](https://github.com/StandinNeon/StandinNeon/blob/master/Assets/Header%20git.png)](https://gb.ru/users/176798?tab=courses-and-certificates#courses-and-certificates)
 
-## My name is Ilya, I am 21 years old. I live in Moscow, Russia. I'm a student of Geek Brains University at the Faculty of Data Engineering. 
+## I am Ilya, I am 22 years old, I live in Moscow, I am a data engineer.
 
 ### Languages and Tools
 [![Python](https://img.shields.io/badge/Python-313431?style=for-the-badge&logo=python)](https://www.python.org/)
