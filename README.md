@@ -1,6 +1,6 @@
 [![Header](https://github.com/StandinNeon/StandinNeon/blob/master/Assets/Header%20git.png)](https://gb.ru/users/176798?tab=courses-and-certificates#courses-and-certificates)
 
-## I am Ilya, I am 22 years old, I live in Moscow, I am a data engineer.
+## I am Ilya
 
 ### Languages and Tools
 [![Python](https://img.shields.io/badge/Python-313431?style=for-the-badge&logo=python)](https://www.python.org/)
